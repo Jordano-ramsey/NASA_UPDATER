@@ -1,11 +1,29 @@
 [
   {
-    "id": "D7F8A8E4-7C5E-44B9-8A86-6F0B2E2F1B9A",
-    "title": "NASA’s Europa Clipper Prepares for Launch",
-    "pubDate": "Fri, 20 Sep 2024 15:21:00 +0000",
-    "recap": "NASA’s Europa Clipper will study Jupiter’s icy moon Europa...",
-    "bodyPlain": "NASA’s Europa Clipper is scheduled to launch ... (full link-free body text here)",
-    "html": "<p>NASA’s Europa Clipper is scheduled to launch...</p><img src=\"https://www.nasa.gov/.../europa.jpg\"/>",
-    "imageURL": "https://www.nasa.gov/sites/default/files/thumbnails/image/europa_thumb.jpg"
+    "id": "E51B3B44-3DF9-46E5-93E8-7E3F2D51D9E5",
+    "title": "SpaceX Launches New Crew to the International Space Station",
+    "pubDate": "Fri, 01 Nov 2025 14:25:00 +0000",
+    "recap": "SpaceX successfully launched its latest crewed mission to the International Space Station today, marking another milestone in private spaceflight and NASA collaboration.",
+    "bodyPlain": "SpaceX's Falcon 9 rocket lifted off from Kennedy Space Center carrying four astronauts. The mission, dubbed Crew-10, is expected to dock with the ISS approximately 24 hours after launch. This mission underscores the growing partnership between NASA and commercial providers in maintaining human presence in orbit.",
+    "html": "<p>SpaceX's <strong>Falcon 9</strong> rocket lifted off from Kennedy Space Center carrying four astronauts. The mission, dubbed <em>Crew-10</em>, is expected to dock with the ISS approximately 24 hours after launch.</p>",
+    "imageURL": "https://www.spacex.com/static/images/share.jpg"
+  },
+  {
+    "id": "71C5B776-2F14-4F2D-9919-5D622AEBAF24",
+    "title": "NASA Reveals Artemis II Mission Updates",
+    "pubDate": "Thu, 31 Oct 2025 20:00:00 +0000",
+    "recap": "NASA has announced key updates to its upcoming Artemis II mission, focusing on astronaut readiness and spacecraft testing ahead of its historic lunar flyby.",
+    "bodyPlain": "NASA's Artemis II mission will send four astronauts on a lunar flyby, the first crewed mission beyond Earth orbit in over 50 years. The agency has confirmed final testing phases are underway for the Orion spacecraft and Space Launch System rocket.",
+    "html": "<p>NASA has announced new milestones for <strong>Artemis II</strong>. Final testing phases are underway for the <em>Orion spacecraft</em> and <em>Space Launch System</em> rocket.</p>",
+    "imageURL": "https://www.nasa.gov/sites/default/files/thumbnails/image/artemis_ii_crew.jpg"
+  },
+  {
+    "id": "8F2E8A12-C9B8-4964-B445-3E3F8F7EEAA1",
+    "title": "New Space.com Report Explores the Future of Deep Space Habitats",
+    "pubDate": "Wed, 30 Oct 2025 11:40:00 +0000",
+    "recap": "A new feature by Space.com explores the emerging technologies that could make long-term deep space habitation a reality within the next two decades.",
+    "bodyPlain": "From artificial gravity concepts to radiation shielding innovations, aerospace engineers are developing technologies that could allow humans to live beyond Earth for extended periods. The report highlights ongoing work by NASA, SpaceX, and private research groups.",
+    "html": "<p>Space.com reports that aerospace companies are developing technologies for <em>long-term deep space habitation</em>. These include radiation protection, resource recycling, and artificial gravity systems.</p>",
+    "imageURL": "https://cdn.mos.cms.futurecdn.net/deep-space-habitat.jpg"
   }
 ]
