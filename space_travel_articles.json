@@ -1,12 +1,15 @@
-[
-  {
-    "id":"F1D9F9E5-7B2C-4F3E-8C74-9D0B37B9DA01",
-    "source":"nasa",
-    "title":"Artemis II Wet Dress Rehearsal Complete",
-    "pubDate":"Wed, 08 Oct 2025 16:05:00 +0000",
-    "recap":"NASA completed …",
-    "bodyPlain":"NASA completed the …",
-    "html":"<p>Full post…</p>",
-    "imageURL":"https://images.nasa.gov/image.jpg"
-  }
-]
+{
+  "schema_version": 1,
+  "articles": [
+    {
+      "id": "C40B1CFC-6D9C-4D3F-90D7-19B3C9F7785E",
+      "source": "spacex",
+      "title": "Starship Flight Test 5 updates",
+      "pubDate": "Mon, 28 Oct 2024 14:32:00 +0000",
+      "recap": "Short recap text...",
+      "bodyPlain": "Full, link-free text here...",
+      "html": "<p>Original feed HTML...</p>",
+      "imageURL": "https://example.com/image.jpg"
+    }
+  ]
+}
