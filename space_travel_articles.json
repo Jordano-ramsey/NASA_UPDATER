@@ -1,15 +1,11 @@
-{
-  "schema_version": 1,
-  "articles": [
-    {
-      "id": "C40B1CFC-6D9C-4D3F-90D7-19B3C9F7785E",
-      "source": "spacex",
-      "title": "Starship Flight Test 5 updates",
-      "pubDate": "Mon, 28 Oct 2024 14:32:00 +0000",
-      "recap": "Short recap text...",
-      "bodyPlain": "Full, link-free text here...",
-      "html": "<p>Original feed HTML...</p>",
-      "imageURL": "https://example.com/image.jpg"
-    }
-  ]
-}
+[
+  {
+    "id": "D7F8A8E4-7C5E-44B9-8A86-6F0B2E2F1B9A",
+    "title": "NASA’s Europa Clipper Prepares for Launch",
+    "pubDate": "Fri, 20 Sep 2024 15:21:00 +0000",
+    "recap": "NASA’s Europa Clipper will study Jupiter’s icy moon Europa...",
+    "bodyPlain": "NASA’s Europa Clipper is scheduled to launch ... (full link-free body text here)",
+    "html": "<p>NASA’s Europa Clipper is scheduled to launch...</p><img src=\"https://www.nasa.gov/.../europa.jpg\"/>",
+    "imageURL": "https://www.nasa.gov/sites/default/files/thumbnails/image/europa_thumb.jpg"
+  }
+]
