@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3F6D7A9E-2B4A-4939-91C9-44AA7F47C012",
+    "title": "Perseid Meteor Shower Peaks Tonight",
+    "date": "Mon, 15 Jul 2024 22:00:00 +0000",
+    "recap": "The Perseid meteor shower reaches its maximum tonight, with ideal viewing after midnight under dark skies. Observers can expect 60–90 meteors per hour.",
+    "bodyPlain": "The annual Perseid meteor shower puts on its best show tonight. The Moon will be below the horizon during peak hours, creating excellent viewing conditions. The radiant point rises in the northeastern sky and climbs higher through the night. Observers in dark-sky locations may see up to 90 meteors per hour.",
+    "html": "<p>The annual Perseid meteor shower puts on its best show tonight. The Moon will be below the horizon during peak hours, creating excellent viewing conditions. The radiant point rises in the northeastern sky and climbs higher through the night.</p><p>Observers in dark-sky locations may see up to 90 meteors per hour.</p>",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Perseids_2018.jpg/640px-Perseids_2018.jpg"
+  },
+  {
+    "id": "19AA7D8B-0A1F-44BA-92C5-0C2B7A245F12",
+    "title": "Partial Lunar Eclipse Visible This Weekend",
+    "date": "Sat, 20 Jul 2024 03:30:00 +0000",
+    "recap": "A partial lunar eclipse will be visible across parts of Europe, Africa, and Asia. The Moon enters Earth's penumbra shortly after midnight local time.",
+    "bodyPlain": "A subtle partial lunar eclipse will occur this weekend and will be visible across Europe, Africa, and Western Asia. While the eclipse is not total, the partial phase will last more than two hours. The Moon will darken noticeably as it passes through Earth's penumbral shadow.",
+    "html": "<p>A subtle partial lunar eclipse will occur this weekend and will be visible across Europe, Africa, and Western Asia. While the eclipse is not total, the partial phase will last more than two hours.</p><p>The Moon will darken noticeably as it passes through Earth's penumbral shadow.</p>",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/10/Lunar_eclipse_2019_totality.jpg"
+  },
+  {
+    "id": "C6F71CE7-8FDE-4B4F-A6C4-6D12D0C10199",
+    "title": "SpaceX Falcon 9 Night Launch Set for Monday",
+    "date": "Mon, 22 Jul 2024 11:50:00 +0000",
+    "recap": "SpaceX plans a nighttime Falcon 9 launch carrying a batch of Starlink satellites, creating a bright arc visible from the U.S. East Coast.",
+    "bodyPlain": "SpaceX is preparing for a Falcon 9 launch Monday night delivering additional Starlink satellites to orbit. The booster will create a brilliant exhaust plume during the ascent. Weather forecasts show an 80 percent chance of favorable conditions for liftoff.",
+    "html": "<p>SpaceX is preparing for a Falcon 9 launch Monday night delivering additional Starlink satellites. The booster will create a brilliant exhaust plume during ascent.</p><p>Weather forecasts show an 80 percent chance of favorable conditions for liftoff.</p>",
+    "imageURL": "https://live.staticflickr.com/65535/53060042839_b6fd8f9b65_k.jpg"
+  },
+  {
+    "id": "A0C93B89-D0C4-4C32-A6E8-31BBF567E9E2",
+    "title": "Mars and Saturn Early Morning Conjunction",
+    "date": "Fri, 26 Jul 2024 09:10:00 +0000",
+    "recap": "Mars and Saturn appear unusually close in the morning sky before sunrise. The conjunction is best seen around 4 a.m. local time.",
+    "bodyPlain": "Early risers can observe a striking conjunction of Mars and Saturn just before dawn. The two planets will appear less than a degree apart. A pair of binoculars will enhance the view, but the event remains visible to the naked eye.",
+    "html": "<p>Observers can enjoy a striking conjunction of Mars and Saturn early Friday morning. The two planets will appear less than a degree apart and will be easily visible in the pre-dawn sky.</p>",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/57/Mars_saturn_conjunction.jpg"
+  }
+]
