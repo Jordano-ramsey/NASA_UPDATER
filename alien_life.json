@@ -1,0 +1,74 @@
+[
+  {
+    "id": "f2a0f3f1-6c84-4b60-94e3-2c2d7af2f111",
+    "title": "Methane–Carbon Dioxide Disequilibrium on a Sub-Neptune Exoplanet",
+    "discoveryDate": "Thu, 14 Nov 2024 12:40:00 +0000",
+    "recap": "Spectra from a cool sub-Neptune show methane and carbon dioxide in a strong chemical imbalance, one of the classic patterns astrobiologists watch for when hunting atmospheric biosignatures.",
+    "bodyPlain": "Using a space-based infrared observatory, astronomers have measured the transmission spectrum of a temperate sub-Neptune orbiting a nearby K-type star. The data reveal both methane and carbon dioxide present at levels that would quickly react away in a simple equilibrium atmosphere. Maintaining such a mixture over long timescales requires either vigorous geologic cycling or a continuous source such as biological activity. Although non-biological explanations remain plausible, the planet is now a priority target for follow-up observations that can search for corroborating gases and refine climate models.",
+    "html": null,
+    "imageURL": "https://example.com/images/sub_neptune_biosignature_methane_co2.jpg"
+  },
+  {
+    "id": "7c3976c3-7ed2-4f3d-9e81-d37547e8250f",
+    "title": "Salty Ocean Clues on Europa Hint at Energy-Rich Seafloor",
+    "discoveryDate": "Mon, 30 Sep 2024 17:05:00 +0000",
+    "recap": "Fresh analysis of Europa’s surface salts suggests its hidden ocean may circulate through a rocky seafloor, providing chemical energy sources similar to those that feed life at Earth’s deep-sea vents.",
+    "bodyPlain": "A reanalysis of ultraviolet and near-infrared spectra from Europa indicates that some of the salts coating the moon’s surface were likely derived from its subsurface ocean rather than from simple surface irradiation alone. The composition is best matched by fluids that have interacted with warm rock at the seafloor, a scenario that would naturally create redox gradients capable of powering microbial ecosystems. While no life has been detected, the results strengthen the case for Europa as a high-priority target for future landers that can directly sample material delivered to the surface by plumes or cryovolcanism.",
+    "html": null,
+    "imageURL": "https://example.com/images/europa_ocean_saltsy_surface.jpg"
+  },
+  {
+    "id": "b8a2d881-4b0c-4e3b-aed7-72bbace0c90d",
+    "title": "Organic-Rich Plumes from Enceladus Refined With New Flyby Data",
+    "discoveryDate": "Wed, 07 Aug 2024 09:32:00 +0000",
+    "recap": "Reprocessed flyby measurements of Enceladus show a richer mix of complex organic molecules than previously recognized, tightening the parallels with habitable environments in Earth’s deep oceans.",
+    "bodyPlain": "Scientists have re-examined archived mass spectrometer data from a series of close flybys through Enceladus’s south polar plumes. Updated calibration and noise-removal techniques reveal a wider variety of complex organic compounds, including larger carbon chains and nitrogen-bearing molecules. Combined with evidence for liquid water, internal heating, and seafloor hydrothermal activity, the chemistry reinforces Enceladus as one of the most promising places in the Solar System to search for extant life. Future missions could use plume-flythroughs to sample fresh material without needing to land or drill through the ice shell.",
+    "html": null,
+    "imageURL": "https://example.com/images/enceladus_plumes_organics.jpg"
+  },
+  {
+    "id": "e51de94a-8e6b-4d6a-897d-1a8a950b8bd5",
+    "title": "Radio Quiet Zone Survey Tightens Limits on Nearby Technosignatures",
+    "discoveryDate": "Sun, 19 May 2024 22:10:00 +0000",
+    "recap": "A deep radio survey of nearby Sun-like stars found no narrowband beacons, improving constraints on the prevalence of powerful civilizations within a few hundred light-years.",
+    "bodyPlain": "Using a large radio telescope operating in a protected quiet band, researchers conducted a targeted survey of several hundred nearby Sun-like stars and promising exoplanet hosts. The team searched for artificial-looking, extremely narrowband radio signals that drift in frequency the way a transmitter on a rotating, orbiting planet would. No convincing technosignature candidates were detected, allowing astronomers to place stronger upper limits on the number of civilizations broadcasting high-power beacons in the local region of the Milky Way. The null result does not rule out quieter or very different forms of technology, but it informs future survey strategies and instrumentation designs.",
+    "html": null,
+    "imageURL": "https://example.com/images/radio_seti_survey_dish_array.jpg"
+  },
+  {
+    "id": "c6f3e6ab-5c0a-4b36-b69a-bf4139bfa910",
+    "title": "Exoplanet with Seasonal Haze Cycles Resembles a ‘Pale Orange Dot’",
+    "discoveryDate": "Fri, 01 Mar 2024 13:55:00 +0000",
+    "recap": "A hazy, temperate exoplanet shows evidence for seasonal changes in its atmosphere, a possible indicator of complex climate feedbacks relevant to habitability studies.",
+    "bodyPlain": "Multi-epoch observations of a temperate exoplanet slightly larger than Earth reveal that its atmosphere becomes thicker and more scattering at certain points in its orbit. The pattern is consistent with a photochemical haze that waxes and wanes with changing stellar irradiation, similar in some ways to seasonal smog on Earth or haze cycles on Titan. While haze alone is not a biosignature, understanding such time-variable behavior is crucial for separating truly biological signals from purely abiotic atmospheric processes. The planet has now become a benchmark target for time-domain exoclimate modeling.",
+    "html": null,
+    "imageURL": "https://example.com/images/hazy_temperate_exoplanet.jpg"
+  },
+  {
+    "id": "a7c41bb6-82df-4c68-9b1b-94b2c35351df",
+    "title": "Laboratory Cells Thrive in Simulated Martian Brine Patches",
+    "discoveryDate": "Tue, 16 Jan 2024 10:20:00 +0000",
+    "recap": "Extremophile microbes grown in simulated Martian soils and salty brines remained active at low temperatures, tightening the plausible range of habitats for life just below Mars’s surface.",
+    "bodyPlain": "Astrobiologists have tested hardy terrestrial microbes in a laboratory setup that mimics Mars’s regolith chemistry, thin atmosphere, and daily temperature cycling. When supplied with thin films of perchlorate-rich brine, several strains remained metabolically active at temperatures well below the freezing point of pure water. The study does not prove such organisms exist on Mars, but it demonstrates that known biochemistry can operate under conditions similar to those inferred for shallow subsurface niches on the planet. The results help mission planners refine where and how to search for subtle biosignatures while respecting planetary protection guidelines.",
+    "html": null,
+    "imageURL": "https://example.com/images/martian_brine_microbes_lab.jpg"
+  },
+  {
+    "id": "d9094623-94ce-4b3e-81a3-5b1bd63d16e1",
+    "title": "Catalog of Habitable Zone Exoplanets Passes 100 Candidates",
+    "discoveryDate": "Thu, 09 Nov 2023 08:45:00 +0000",
+    "recap": "Updated catalogs now list over a hundred known exoplanets roughly Earth-sized and orbiting in the temperate zones of their stars, setting the stage for atmospheric life searches.",
+    "bodyPlain": "Combining results from transit, radial-velocity, and direct-imaging surveys, astronomers have compiled an updated list of exoplanets with radii and orbital distances compatible with liquid water on their surfaces under some atmospheric conditions. The catalog now exceeds one hundred candidates, spanning a variety of stellar types from cool red dwarfs to Sun-like stars. While basic location in the habitable zone is only a first filter, the growing sample provides a rich menu of targets for future telescopes capable of measuring atmospheric composition and searching for potential biosignature gases.",
+    "html": null,
+    "imageURL": "https://example.com/images/habitable_zone_exoplanet_catalog.jpg"
+  },
+  {
+    "id": "9347e32e-8e8f-4c01-a3df-df94b97344f0",
+    "title": "Venus Cloud Chemistry Revisited With High-Resolution Spectra",
+    "discoveryDate": "Mon, 19 Jun 2023 15:12:00 +0000",
+    "recap": "New observations of Venus’s cloud deck refine the inventory of trace gases and highlight just how challenging it is to distinguish exotic chemistry from possible biosignatures.",
+    "bodyPlain": "High-resolution spectroscopy of sunlight passing through the upper clouds of Venus has yielded tighter constraints on several trace gases, including sulfur-bearing species and potential oxidants. The data show a complex, dynamic environment where droplets and aerosols continually cycle material between different chemical states. While no definitive biosignature has emerged, the work underscores that unusual atmospheric chemistry does not automatically imply life. Venus remains a cautionary example and a valuable natural laboratory for testing how non-biological processes can imitate the spectral fingerprints astrobiologists often associate with biology.",
+    "html": null,
+    "imageURL": "https://example.com/images/venus_cloud_chemistry.jpg"
+  }
+]
