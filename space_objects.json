@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1f5f39f1-8949-4cfb-9c57-0d8e8e1f8701",
+    "title": "Ultra-Faint Dwarf Galaxy Candidate at Milky Way’s Edge",
+    "discoveryDate": "Tue, 12 Nov 2024 14:32:00 +0000",
+    "recap": "Deep imaging has revealed an ultra-faint dwarf galaxy candidate skimming the outskirts of the Milky Way, offering a new laboratory for probing dark-matter dominated systems.",
+    "bodyPlain": "A team using an 8-meter-class ground telescope has identified an ultra-faint dwarf galaxy candidate at the extreme edge of the Milky Way halo. Follow-up spectroscopy suggests the stars are ancient, metal-poor, and moving in a way that implies a large dark-matter component. If confirmed, the system could help refine models of how small galaxies assemble around larger spirals and why so many predicted dark-matter subhalos appear to be missing in observations.",
+    "html": null,
+    "imageURL": "https://example.com/images/ultrafaint_dwarf_galaxy.jpg"
+  },
+  {
+    "id": "2c8b1e51-5f60-4a3a-a0fa-6b934bbf7c12",
+    "title": "Interstellar Comet Shows Exotic Volatile Mix",
+    "discoveryDate": "Fri, 27 Sep 2024 09:05:00 +0000",
+    "recap": "A newly tracked interstellar comet exhibits an unusual blend of ices, hinting that planet-forming disks around other stars may follow very different chemical pathways.",
+    "bodyPlain": "Astronomers monitoring a hyperbolic comet on a trajectory through the inner Solar System have confirmed that it is unbound to the Sun, making it the second known interstellar comet. Spectroscopy reveals an unexpected mix of carbon monoxide, methane, and complex organics. The volatile ratios differ significantly from Solar System comets, suggesting that protoplanetary disks around other stars may freeze out different chemical recipes as planets form. The object’s brief passage offers a rare opportunity to sample unprocessed material from another stellar neighborhood.",
+    "html": null,
+    "imageURL": "https://example.com/images/interstellar_comet_exotic_ices.png"
+  },
+  {
+    "id": "3d7a2c1d-2c93-4a16-8cc5-e61c91418ee3",
+    "title": "Free-Floating ‘Rogue Planet’ Detected in Local Spiral Arm",
+    "discoveryDate": "Mon, 02 Dec 2024 03:41:00 +0000",
+    "recap": "Microlensing data point to a Jupiter-mass object wandering between the stars without a host, adding to the growing census of so-called rogue planets.",
+    "bodyPlain": "A dedicated microlensing survey has spotted a brief, symmetric brightening of a background star, consistent with a Jupiter-mass object passing in front of it. No host star is detected in deep follow-up imaging, implying that the lensing body is a free-floating planet. Such ‘rogue planets’ may be common outcomes of dynamical instabilities in forming planetary systems. Measuring their population helps astronomers understand how often planets are ejected and how much mass resides in the space between stars.",
+    "html": null,
+    "imageURL": "https://example.com/images/rogue_planet_microlensing.jpg"
+  },
+  {
+    "id": "4a90e224-5781-4d74-b08b-7a4474bcf4fd",
+    "title": "Fast Radio Burst Tied to Compact Star-Forming Dwarf Galaxy",
+    "discoveryDate": "Thu, 18 Jul 2024 21:15:00 +0000",
+    "recap": "A precisely localized repeating fast radio burst has been traced to a compact, highly magnetized region inside a star-forming dwarf galaxy.",
+    "bodyPlain": "Using very long baseline interferometry, radio astronomers have pinned down the location of a repeating fast radio burst to a compact region within a star-forming dwarf galaxy about a billion light-years away. The burst site coincides with a persistent radio source, likely a nebula energized by a young magnetar. The environment is dense and highly magnetized, supporting models in which at least some fast radio bursts originate from extreme neutron stars rapidly losing rotational energy in crowded stellar nurseries.",
+    "html": null,
+    "imageURL": "https://example.com/images/frb_dwarf_galaxy.png"
+  },
+  {
+    "id": "5e6f33b8-374e-4c0a-9f17-58704b9d4a44",
+    "title": "Potentially Hazardous Near-Earth Asteroid Refined to Safe Orbit",
+    "discoveryDate": "Wed, 09 Oct 2024 16:02:00 +0000",
+    "recap": "New radar ranging of a kilometer-scale near-Earth asteroid has tightened its orbit and ruled out any impact chances for at least the next century.",
+    "bodyPlain": "Planetary radar observations have provided a detailed shape model and precise distance measurements for a newly cataloged near-Earth asteroid roughly one kilometer across. The data dramatically shrink the uncertainty in its orbit, allowing dynamicists to project its motion far into the future. The refined solution confirms that, despite passing relatively close to Earth on several occasions, the asteroid will not pose an impact threat for at least the next hundred years. The radar echoes also reveal surface boulders and a slightly elongated body, consistent with a rubble-pile structure.",
+    "html": null,
+    "imageURL": "https://example.com/images/nea_radar_shape_model.jpg"
+  },
+  {
+    "id": "6b1c8f2f-cc5a-4465-8c12-0d6c4f2d2a91",
+    "title": "Protoplanetary Disk Shows Signs of Emerging ‘Mini-Neptunes’",
+    "discoveryDate": "Sat, 23 Mar 2024 11:27:00 +0000",
+    "recap": "High-resolution millimeter imaging has uncovered multiple concentric gaps in a young star’s disk, consistent with several forming mini-Neptune worlds.",
+    "bodyPlain": "Observations from a large millimeter-wave interferometer have mapped the dust in a protoplanetary disk around a nearby Sun-like star. The disk shows three prominent rings separated by partially cleared gaps. Modeling suggests that each gap could be carved by a planet a few times the mass of Earth, accreting gas and solids as it orbits. If confirmed, the system would provide a snapshot of mini-Neptune-class planets in the act of formation, offering a bridge between young disks and the abundant sub-Neptune planets seen by transit surveys.",
+    "html": null,
+    "imageURL": "https://example.com/images/protoplanetary_disk_rings.jpg"
+  },
+  {
+    "id": "7c2db90e-b7b3-431a-9bea-76b1e6cba7e8",
+    "title": "Nearby Brown Dwarf Binary with Planet-Like Temperatures",
+    "discoveryDate": "Sun, 05 May 2024 07:50:00 +0000",
+    "recap": "Infrared observations have resolved a pair of ultracool brown dwarfs whose atmospheres resemble those of giant exoplanets, ideal for comparative studies.",
+    "bodyPlain": "A wide-field infrared survey has identified a faint, red source whose spectrum indicates extremely low effective temperatures. Follow-up adaptive optics imaging resolves the object into a tight pair of brown dwarfs orbiting each other. Their atmospheric temperatures overlap with those expected for directly imaged giant exoplanets, yet their isolation from bright host stars makes them far easier to study. Continued monitoring of the binary’s orbit will yield precise masses, providing key benchmarks for substellar evolution models.",
+    "html": null,
+    "imageURL": "https://example.com/images/brown_dwarf_binary.jpg"
+  },
+  {
+    "id": "8fde44c9-8b35-4d4a-89e5-1d9a0ee2ce0f",
+    "title": "Record-Distance Quasar Probes Early Cosmic Dawn",
+    "discoveryDate": "Tue, 30 Jan 2024 19:18:00 +0000",
+    "recap": "A newly confirmed quasar at extreme redshift hosts a supermassive black hole less than a billion years after the Big Bang, challenging growth scenarios.",
+    "bodyPlain": "Spectroscopic follow-up of a faint, red point source discovered in a deep sky survey has revealed broad emission lines at very high redshift, confirming it as one of the most distant known quasars. The inferred black hole mass is already hundreds of millions of Suns, even though the light left the source when the universe was under a billion years old. Explaining such rapid growth pushes models of early black hole formation, suggesting either direct-collapse seeds or episodes of highly efficient accretion in dense primordial environments.",
+    "html": null,
+    "imageURL": "https://example.com/images/high_redshift_quasar.jpg"
+  }
+]
